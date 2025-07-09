@@ -1,7 +1,7 @@
 // Firebase configuration
 // Replace with your own Firebase config object
 const firebaseConfig = {
-    apiKey: "AIzaSyA1ru1mGR7w6k_iLLhI2yt6J37Duz5clXE",
+    apiKey: "",
     authDomain: "dahlia-dreams.firebaseapp.com",
     projectId: "dahlia-dreams",
     storageBucket: "dahlia-dreams.firebasestorage.app",
